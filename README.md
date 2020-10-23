@@ -7,5 +7,6 @@
 - Export.ipynb: used for exporting the logs to results.csv and analyzing it
 - results.csv: the results of running the first experiments
 - Anova-project.ipynb: used for running ANOVA analysis on the results
+- decider.ipynb: the machine learning decider (TODO: Erwin add this)
 - design-withoptimization.csv: the scheduled jobs for running the optimized experiment
 - plotting.ipynb: used for visualizing the results.csv data
